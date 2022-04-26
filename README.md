@@ -10,3 +10,8 @@ yarn init -y
 ```
 yarn add express
 ```
+
+## Instalar nodemon
+```
+yarn add nodemon
+```
